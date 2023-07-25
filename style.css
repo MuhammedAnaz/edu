@@ -1,0 +1,26 @@
+.navbar-brand img {
+  width: 130px;
+}
+.full-width {
+  height: auto;
+  width: 100%;
+}
+.feature-item img {
+  height: auto;
+  width: 100px;
+}
+.susbscribe {
+  background-image: url(img/pexels-christina-morillo-1181448.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+.brand-icon img {
+  width: 150px;
+  height: auto;
+}
+.blur-filter
+{
+    backdrop-filter: blur(8px);
+    background-color:rgb(255 255 255 / 30%);
+
+}
